@@ -1,0 +1,17 @@
+.company-container {
+  padding: 10px;
+}
+.role {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.company {
+  margin-bottom: 5px;
+}
+.link {
+  text-decoration: none;
+  display: block;
+  margin-bottom: 5px;
+}
+.description-role {
+}

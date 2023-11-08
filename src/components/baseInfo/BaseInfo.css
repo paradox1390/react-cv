@@ -1,0 +1,18 @@
+.base-container {
+  margin-bottom: 10px;
+}
+
+.base-header {
+  margin-bottom: 10px;
+}
+
+.list-container {
+  padding-left: 20px;
+}
+
+.list-item {
+  padding-bottom: 8px;
+}
+.list-style {
+  list-style: none;
+}

@@ -1,0 +1,1 @@
+export { WorkComp } from "./WorkComp";

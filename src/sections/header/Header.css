@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+.header-info-container {
+  background-color: black;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 25px;
+  align-items: center;
+}
+.header-info-container h1 {
+  font-size: 35px;
+}
+.header-info-container p {
+  font-size: 20px;
+}
+.header-img-container {
+  width: 200px;
+}
+
+.header-img-container img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: contain;
+  filter: grayscale(100);
+}
